@@ -63,6 +63,28 @@ python main.py
 ___
 
 ## Sample Code
+![alt text](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/SampleCode.PNG "Sample Code")
 ___
 
 ## Sample Run
+### Log-in Page
+__
+![Log-in Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Login.PNG "Log in")
+<br>
+### Register Page
+__
+![Register Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Register.PNG "Register")
+<br>
+### Loan Prediction Page
+__
+![Main Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/main.PNG "Loan Prediction")
+<br>
+### Prediction Model
+__
+![Prediction Model](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Output.PNG "Prediction Model")
+<br>
+### Classification Report
+__
+![Notification](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Notif.PNG "Notification")
+<br>
+![Classification Report](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/ClassReport.PNG "Classification Report")
