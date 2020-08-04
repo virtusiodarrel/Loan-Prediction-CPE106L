@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="images">
+    <file>logo.png</file>
+    <file>icons8-close-window-96.png</file>
+    <file>bg1.png</file>
+  </qresource>
+</RCC>
