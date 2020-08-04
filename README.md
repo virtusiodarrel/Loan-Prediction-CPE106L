@@ -63,28 +63,28 @@ python main.py
 ___
 
 ## Sample Code
-![alt text](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/SampleCode.PNG "Sample Code")
-___
+![alt text](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/SampleCode.png "Sample Code")
+
 
 ## Sample Run
 ### Log-in Page
-__
-![Log-in Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Login.PNG "Log in")
+
+![Log-in Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Login.png "Log in")
 <br>
 ### Register Page
-__
-![Register Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Register.PNG "Register")
+
+![Register Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Register.png "Register")
 <br>
 ### Loan Prediction Page
-__
-![Main Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/main.PNG "Loan Prediction")
+
+![Main Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/main.png "Loan Prediction")
 <br>
 ### Prediction Model
-__
-![Prediction Model](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Output.PNG "Prediction Model")
+
+![Prediction Model](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Output.png "Prediction Model")
 <br>
 ### Classification Report
-__
-![Notification](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Notif.PNG "Notification")
+
+![Notification](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Notif.png "Notification")
 <br>
-![Classification Report](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/ClassReport.PNG "Classification Report")
+![Classification Report](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/ClassReport.png "Classification Report")
