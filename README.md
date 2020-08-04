@@ -60,7 +60,7 @@ To run the application, navigate to the folder of the project and execute the co
 python main.py 
 ```
 <br>
-___
+
 
 ## Sample Code
 [![alt text](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/SampleCode.png "Sample Code")]
