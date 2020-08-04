@@ -1,8 +1,0 @@
-Classification Report
-
-[[23, 28], [4, 130]]
-
-130 individuals are accepted to have loan
-23 individuals are not accepted to have loan
-28 individuals are accepted to have loan but shouldn't be
-4 individuals are not accepted to have loan but should be
