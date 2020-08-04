@@ -82,8 +82,8 @@ python main.py
 
 ![Prediction Model](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Output.png "Prediction Model")
 <br>
-### Classification Report
+### Loan Status
 
 ![Notification](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Notif.png "Notification")
 <br>
-![Classification Report](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/ClassReport.png "Classification Report")
+![Loan Status](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/LoanStatus.png "Loan Status")
