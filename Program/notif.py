@@ -31,7 +31,7 @@ class Ui_Form(object):
                                       "}\n")
         self.pushButton.setObjectName("pushButton")
         self.label = QtWidgets.QLabel(Form)
-        self.label.setGeometry(QtCore.QRect(40, 80, 281, 20))
+        self.label.setGeometry(QtCore.QRect(75, 80, 281, 20))
         self.label.setStyleSheet("font: 12pt \"Verdana\";")
         self.label.setObjectName("label")
         self.pushButton_2 = QtWidgets.QPushButton(Form)
@@ -50,7 +50,7 @@ class Ui_Form(object):
         Form.setWindowTitle(_translate("Form", "Notification"))
         self.pushButton.setText(_translate("Form", "Exit"))
         self.label.setText(_translate(
-            "Form", "ClassificationReport.txt is created"))
+            "Form", "LoanStatus.txt is created"))
 
 
 if __name__ == "__main__":

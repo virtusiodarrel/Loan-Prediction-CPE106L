@@ -16,7 +16,6 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from math import sqrt
 import rcres
-from PyQt5.QtWidgets import QFileDialog
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 # ignore all future warnings
@@ -254,8 +253,8 @@ class Ui_Menu(object):
         cm_to_list = cm.tolist()
         print(type(cm_to_list))
 
-        with open("ClassificationReport.txt", "w") as f:
-            f.write("Classification Report\n\n")
+        with open("LoanStatus.txt", "w") as f:
+            f.write("Loan Status\n\n")
             f.write(repr(cm_to_list))
             f.write("\n\n")
             f.write(str(cm_to_list[1][1]) +
@@ -386,7 +385,7 @@ class Ui_Menu(object):
         self.brws.setText(_translate("Menu", "Open File"))
         self.brws1.setText(_translate("Menu", "Open File"))
         self.prdct.setText(_translate("Menu", " Prediction Model"))
-        self.clssf.setText(_translate("Menu", " Classification Report"))
+        self.clssf.setText(_translate("Menu", " Loan Status"))
 
 
 if __name__ == "__main__":
