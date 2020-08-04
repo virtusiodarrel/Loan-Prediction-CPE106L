@@ -68,22 +68,22 @@ python main.py
 ## Sample Run
 ### Log-in Page
 
-![Log-in Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Login.png "Log in")
+![Log-in Page](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Login.png "Log in")
 <br>
 ### Register Page
 
-![Register Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Register.png "Register")
+![Register Page](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Register.png "Register")
 <br>
 ### Loan Prediction Page
 
-![Main Page](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/main.png "Loan Prediction")
+![Main Page](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/main.png "Loan Prediction")
 <br>
 ### Prediction Model
 
-![Prediction Model](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Output.png "Prediction Model")
+![Prediction Model](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Output.png "Prediction Model")
 <br>
 ### Classification Report
 
-![Notification](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/Notif.png "Notification")
+![Notification](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/Notif.png "Notification")
 <br>
-![Classification Report](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/ClassReport.png "Classification Report")
+![Classification Report](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/ClassReport.png "Classification Report")
