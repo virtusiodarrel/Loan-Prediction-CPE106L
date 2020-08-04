@@ -63,7 +63,7 @@ python main.py
 
 
 ## Sample Code
-![Code](https://github.com/virtusiodarrel/Loan-Prediction-CPE106L/tree/master/UI/Sample%20Screenshots/SampleCode.png "Sample Code")
+![Code](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/SampleCode.png "Sample Code")
 
 ## Sample Run
 ### Log-in Page
