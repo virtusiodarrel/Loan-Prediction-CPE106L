@@ -34,7 +34,6 @@ conda activate loanPredict
 ```
 install the libraries and dependencies of the project.
 ```
-pip install sqlite3
 pip install PyQt5
 pip install scikit-learn
 pip install numpy
@@ -42,6 +41,8 @@ pip install pandas
 pip install seaborn
 pip install matplotlib
 ```
+ install sqlite3 in this website:
+ [SQLite3](https://www.sqlite.org/download.html)
  
 <br>
  
