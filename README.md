@@ -61,7 +61,7 @@ python main.py
 ```
 <br>
 
-
+_____
 ## Sample Code
 ![Code](https://raw.githubusercontent.com/virtusiodarrel/Loan-Prediction-CPE106L/master/UI/Sample%20Screenshots/SampleCode.png "Sample Code")
 
