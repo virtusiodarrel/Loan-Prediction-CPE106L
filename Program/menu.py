@@ -1,3 +1,7 @@
+import warnings
+from PyQt5 import QtCore, QtGui, QtWidgets
+import rcres
+from PyQt5.QtWidgets import QFileDialog
 import sklearn
 import numpy as np
 import pandas as pd
@@ -15,11 +19,8 @@ from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 from math import sqrt
-import rcres
-from PyQt5 import QtCore, QtGui, QtWidgets
 
 # ignore all future warnings
-import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 warnings.filterwarnings('ignore')
 
@@ -251,7 +252,6 @@ class Ui_Menu(object):
         # prediction model
         cm = confusion_matrix(y_cv, pred_cv)
         cm_to_list = cm.tolist()
-        print(type(cm_to_list))
 
         with open("LoanStatus.txt", "w") as f:
             f.write("Loan Status\n\n")
